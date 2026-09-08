@@ -1,0 +1,15 @@
+{
+    "geode": "3.0.0",
+    "version": "v1.0.0",
+    "id": "kofte.premium.hacks",
+    "name": "Kofte Premium Menu",
+    "developer": "Kofte",
+    "description": "542.345 Mavi Top ve Ölümsüzlük (Noclip) içeren özel hile modum!",
+    "entry": "main.cpp",
+    "dependencies": [
+        {
+            "id": "geode.loader",
+            "version": ">=3.0.0"
+        }
+    ]
+}
