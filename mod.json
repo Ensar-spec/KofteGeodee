@@ -1,0 +1,11 @@
+{
+  "geode": "v4.0.0",
+  "gd": {
+    "android": "2.2074"
+  },
+  "id": "ensar.ilkmodum",
+  "name": "İlk Mobil Modum",
+  "version": "v1.0.0",
+  "developer": "Ensar",
+  "description": "Telefonda kodlanmis Geode modu!"
+}
